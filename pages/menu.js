@@ -5,7 +5,7 @@ function menu() {
     <>
 <section className="py-6 ">
     <div className="px-8 mx-auto max-w-7xl lg:px-16">
-        <h2 className="mt-6 mb-6  text-2xl text-gray-400 ">MENU</h2>
+        <h2 className="mt-6 mb-6  text-2xl text-gray-400 uppercase">à table</h2>
        
        
         <div className="grid grid-cols-1 gap-0 text-gray-600 md:grid-cols-2 md:gap-16">
