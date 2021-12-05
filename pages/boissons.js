@@ -2,7 +2,7 @@ const boissons = () => {
     return (
         <div className="relative px-6 py-8 ml-auto mr-auto ">
             <div className="relative">
-            <h3 className="mt-2 font-light text-2xl text-gray-400 ">BOISSONS CHAUDES </h3>
+            <h3 className="mt-6 mb-6 font-light text-2xl text-gray-400 ">BOISSONS CHAUDES </h3>
        
        
        <div className="text-gray-600 md:grid-cols-2 md:gap-16">
