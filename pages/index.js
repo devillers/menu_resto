@@ -13,7 +13,7 @@ export default function Home() {
 
       <section classNameName="bg-gray-100">
           <div className="mt-10 relative">
-              <div className="absolute inset-0 w-screen h-screen pb-20 transform opacity-50">
+              <div className="absolute inset-0 w-screen h-screen pb-20 transform opacity-20">
                   <img src="https://cdn.devdojo.com/images/march2021/bg-gradient.png" className="absolute left-0 object-cover w-full h-full"/>
               </div>
               <div className="relative px-6 py-8 ml-auto mr-auto bg-top bg-cover sm:py-16 max-w-7xl md:px-24 lg:px-16 lg:py-20">
