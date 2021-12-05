@@ -231,7 +231,8 @@ const boissons = () => {
                        <p className="text-sm mb-4 italic">CELLIER DES CHARTREUX  </p>
      
                    </div>
-                   <div>
+                                <div>
+                                    test
                        <span className="mr-2 font-bold text-pink-500">BLANC </span> 
                        <p className="text-sm">VIEILLE VIGNE DE CRUET - <span className="italic">DE L'IDYLLE </span> <span className="m ml-2 font-bold text-pink-500">22.00 €</span></p>
                        <p className="text-sm mb-4 ">CHIGNIN BERGERON - DOMAINE PLANTIN AOP <span className=" ml-2 font-bold text-pink-500">28.00 €</span></p>
