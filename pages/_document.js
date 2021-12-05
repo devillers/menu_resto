@@ -20,7 +20,7 @@ class MyDocument extends Document {
           />
           <meta
             name='description'
-            content='conciergerie saint gervais gestion de vos locations en courte duree'
+            content='restaurant le gouet saint nicolas de veroce '
           />
         </Head>
         <body>

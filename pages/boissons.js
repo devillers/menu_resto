@@ -5,7 +5,7 @@ const boissons = () => {
             <h3 className="mt-6 mb-6  text-2xl text-gray-400 ">BOISSONS CHAUDES </h3>
        
        
-       <div className="text-gray-600">
+     <div className="text-gray-600">
            <div>
                <div>
                    <div className="flex text-sm font-light">
