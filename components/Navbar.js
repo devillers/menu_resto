@@ -20,9 +20,9 @@ function Navbar() {
               <a className="shadow-md text-xs bg-blue-300 font-light tracking-wide px-3 py-2 text-white rounded-full ">specialités</a>
             </NextLink>
 
-            <NextLink href='/desserts'>
+            {/* <NextLink href='/desserts'>
               <a className="shadow-md text-xs bg-pink-300 font-light tracking-wide px-3 py-2 text-white rounded-full ">desserts</a>
-            </NextLink>
+            </NextLink> */}
 
             <NextLink href='boissons'>
               <a className="shadow-md text-xs bg-pink-500 font-light tracking-wide px-3 py-2 text-white rounded-full ">boissons</a>
