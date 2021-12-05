@@ -3,11 +3,11 @@ function specialite() {
    
 <div className="relative px-6 py-8 ml-auto mr-auto  ">
     
-    <div className="px-8 mx-auto max-w-7xl lg:px-16">
-        <h2 className="mt-6 mb-6  text-2xl text-gray-400 ">SPECIALITES</h2>
+    <div className="relative">
+        <h2 className="mt-6 mb-6 text-2xl text-gray-400 ">SPECIALITES</h2>
        
        
-        <div className="grid grid-cols-1 gap-0 text-gray-600 md:grid-cols-2 md:gap-16">
+        <div className="text-gray-600 ">
             <div>
                 <div>
                     <div className="flex mt-2 font-light text-sm ">
@@ -65,7 +65,7 @@ function specialite() {
                         <h5 className="  text-gray-600 font-light">FONDUE AU COMTE</h5>
                         <span className=" ml-2 mb-2 font-light text-pink-500">19.00 €</span>
                     </div>
-                    <p className="text-sm ">250 g/personne avec salade verte</p>
+                    <p className="text-sm font-light">250 g/personne avec salade verte</p>
                     <p className="text-xs text-gray-400 italic ">Supplément charturerie <span className="text-pink-500">3.00 €</span></p>
                 </div>
                 
@@ -74,7 +74,7 @@ function specialite() {
                         <h5 className="mt-5 text-gray-600">FONDUE AU COMTE & CEPES</h5>
                         <span className=" mt-5 mb-2 ml-2 font-light text-pink-500">21.00 €</span>
                     </div>
-                    <p className="text-sm">250 g/personne avec salade verte</p>
+                    <p className="text-sm font-light">250 g/personne avec salade verte</p>
                     <p className="mb-5 text-xs text-gray-400 italic">Supplément charturerie <span className="text-pink-500">3.00 €</span> </p>
                     <span className="italic text-sm text-pink-700">* PDT <span className="text-gray-600">POMME DE TERRE</span> </span>
                 
