@@ -1,9 +1,12 @@
 import Head from 'next/head';
+import Navbar from '../components/Navbar'
 function desserts() {
   return (
     
-    <div className="relative px-6 py-8 ml-auto mr-auto ">
-    <div className="relative">
+      <div className="relative px-6 py-8 ml-auto mr-auto ">
+           <Navbar />  
+          <div className="relative">
+          
         <h2 className="mt-6 mb-6  text-2xl text-gray-400">DESSERTS & FROMAGES </h2>
        
        

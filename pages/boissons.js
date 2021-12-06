@@ -1,6 +1,8 @@
+import Navbar from '../components/Navbar'
 const boissons = () => {
     return (
         <div className="relative px-6 py-8 ml-auto mr-auto ">
+             <Navbar />  
             <div className="relative">
             <h3 className="mt-6 mb-6  text-2xl text-gray-400 ">BOISSONS CHAUDES </h3>
        

@@ -1,10 +1,12 @@
 
-
+import Navbar from '../components/Navbar'
 function menu() {
   return (
-    <>
-<section className="py-6 ">
-    <div className="px-8 mx-auto max-w-7xl lg:px-16">
+    
+         
+              
+              <div className="relative px-6 py-8 ml-auto mr-auto ">
+              <Navbar/>
         <h2 className="mt-6 mb-6  text-2xl text-gray-400 uppercase">à table</h2>
        
        
@@ -143,8 +145,7 @@ function menu() {
         </div>
    </div>
           </div>
-       </section>   
-    </>
+   
   );
 }
 
