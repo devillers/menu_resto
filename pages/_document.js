@@ -10,10 +10,9 @@ class MyDocument extends Document {
     return (
       <Html lang='fr'>
         <Head>
-          <link
-            href='https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap'
-            rel='stylesheet'
-          />
+          
+           <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;500;900&display=swap" rel="stylesheet"/>
+          
           <link
             href='https://fonts.googleapis.com/css2?family=Lobster+Two&display=swap'
             rel='stylesheet'
@@ -33,3 +32,5 @@ class MyDocument extends Document {
 }
 
 export default MyDocument;
+
+
