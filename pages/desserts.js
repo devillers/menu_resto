@@ -31,11 +31,23 @@ function desserts() {
                 
                 <div>
                     <div className="flex mt-2 font-light text-sm">
-                        <h5 className="  text-gray-900">FROMAGE BLANC BATTU </h5>
-                        <span className=" ml-2  text-pink-500">16.00 €</span>
+                        <h5 className="  text-gray-900">FROMAGE BLANC BATTU NATURE </h5>
+                        <span className=" ml-2  text-pink-500">4.20 €</span>
                     </div>
-                    <p className="text-xs italic">Nature, A la crème, Myrtilles </p>
-                  
+                      </div>
+                      
+                      <div>
+                    <div className="flex mt-2 font-light text-sm">
+                        <h5 className="  text-gray-900">FROMAGE BLANC BATTU CREME </h5>
+                        <span className=" ml-2  text-pink-500">4.40 €</span>
+                    </div>
+                      </div>
+                      
+                      <div>
+                    <div className="flex mt-2 font-light text-sm">
+                        <h5 className="  text-gray-900">FROMAGE BLANC BATTU MYRTILLES </h5>
+                        <span className=" ml-2  text-pink-500">5.20 €</span>
+                    </div>
                 </div>
                 
        

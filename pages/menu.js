@@ -7,7 +7,7 @@ function menu() {
               
               <div className="relative px-6 py-8 ml-auto mr-auto ">
               <Navbar/>
-        <h2 className="mt-6 mb-6  text-2xl text-gray-400 uppercase">à table</h2>
+        <h2 className="mt-6 mb-6  text-2xl text-gray-400 uppercase">la carte</h2>
        
        
         <div className="grid grid-cols-1 gap-0 text-gray-600 md:grid-cols-2 md:gap-16">
@@ -136,7 +136,7 @@ function menu() {
                 <div>
                     <div className="flex mt-2 font-light text-sm ">
                         <h5 className="  text-gray-900">PLAT DU JOUR</h5>
-                                      <span className=" ml-2 f text-pink-500">14.00 €</span>
+                                      <span className=" ml-2 f text-pink-500">15.00 €</span>
                                       
                                   </div>
                                   <p className="italic text-sm text-pink-500 mt-5">* PDT <span className="text-gray-600">POMME DE TERRE</span> </p>

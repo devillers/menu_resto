@@ -42,12 +42,12 @@ function specialite() {
                         <h5 className=" text-gray-900">DIOTS FUMES</h5>
                         <span className=" ml-2 font-light text-pink-500">16.00 €</span>
                     </div>
-                    <p className="text-xs italic">Petite saucisse de Savoie, sauce au vin blanc, frites ou PDT </p>
+                    <p className="text-xs italic">Saucisses fumées de Savoie, sauce au vin blanc, frites ou PDT </p>
                 </div>
 
                 <div>
                     <div className="flex mt-2 font-light text-sm">
-                        <h5 className=" text-gray-900">ECORCES DE SAPIN (boite chaude)</h5>
+                        <h5 className=" text-gray-900">ECORCES DE SAPIN (Boite chaude)</h5>
                         <span className=" ml-2 font-light text-pink-500">18.00 €</span>
                     </div>
                     <p className="text-xs italic">Charcuterie - PDT - Salade verte</p>
