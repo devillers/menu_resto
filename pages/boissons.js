@@ -3,7 +3,7 @@ const boissons = () => {
     return (
             <div className="relative w-full">
                 <Navbar2 />  
-                <div className="relative px-4">
+                <div className="relative pl-4">
                 <h3 className="mt-6 mb-6  text-2xl text-gray-400 ">BOISSONS CHAUDES </h3>
                 
                 <div className="text-gray-600">

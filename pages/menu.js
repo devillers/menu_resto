@@ -4,7 +4,7 @@ function menu() {
             return (
                 <div className="relative w-full ">
                     <Navbar />
-                    <div className="relative px-2">
+                    <div className="relative pl-4">
                     <h2 className="mt-6 mb-6  text-2xl text-gray-400 uppercase">la carte</h2>
                 <div className="grid grid-cols-1 gap-0 text-gray-600 md:grid-cols-2 md:gap-16">
                     <div>
