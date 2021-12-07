@@ -11,12 +11,8 @@ class MyDocument extends Document {
       <Html lang='fr'>
         <Head>
           
-           <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;500;900&display=swap" rel="stylesheet"/>
-          
-          <link
-            href='https://fonts.googleapis.com/css2?family=Lobster+Two&display=swap'
-            rel='stylesheet'
-          />
+        <link href="https://fonts.googleapis.com/css2?family=Fira+Sans:wght@200&display=swap" rel="stylesheet"/> 
+        <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap" rel="stylesheet"/>
           <meta
             name='description'
             content='restaurant le gouet saint nicolas de veroce '

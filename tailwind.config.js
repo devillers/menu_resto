@@ -5,8 +5,8 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        sans: ['Roboto'],
-        fancy: ['Lobster Two'],
+        sans: ['Poppins'],
+        fancy: ['Fira Sans'],
       },
     },
   },

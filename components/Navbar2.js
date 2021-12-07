@@ -35,8 +35,8 @@ export default function Navbar2() {
               </div>
               <div className="flex-1 flex items-center justify-center sm:items-stretch sm:justify-start">
                 <div className="flex-shrink-0 flex items-center">
-                <h2 className='text-2xl md:text-2xl font-light font-fancy text-gray-600'>
-              Le gouet
+                <h2 className='text-2xl md:text-2xl font-semibold font-fancy text-gray-600'>
+              Le gouet - <span className='uppercase text-sm'>St Gervais</span> 
             </h2>
                 </div>
                 <div className="hidden sm:block sm:ml-6">
@@ -93,22 +93,22 @@ export default function Navbar2() {
               ))} */}
                 <div className="py-2">
                     <NextLink href='/menu'>
-                        <a className="shadow-md text-xs bg-purple-500 font-light tracking-wide px-3 py-2 text-white rounded-full ">carte</a>
+                        <a className="ml-4 shadow-md text-xs bg-purple-500 tracking-wide px-3 py-2 text-white rounded-full ">carte</a>
                     </NextLink>
                 </div>
                 <div className="py-2">
                     <NextLink href='/specialite'>
-                        <a className="shadow-md text-xs bg-blue-300 font-light tracking-wide px-3 py-2 text-white rounded-full ">specialités</a>
+                        <a className="ml-4 shadow-md text-xs bg-blue-300 tracking-wide px-3 py-2 text-gray-800  rounded-full ">specialités</a>
                     </NextLink>
                           </div>
                           <div className="py-2">
                     <NextLink href='/desserts'>
-                    <a className="shadow-md text-xs bg-pink-300 font-light tracking-wide px-3 py-2 text-white rounded-full ">desserts</a>
+                    <a className="ml-4 shadow-md text-xs bg-pink-300  tracking-wide px-3 py-2 text-gray-700 rounded-full ">desserts</a>
                     </NextLink>
                 </div>
                 <div className="py-2">
                     <NextLink href='/boissons'>
-                    <a className="shadow-md text-xs bg-pink-500 font-light tracking-wide px-3 py-2 text-white rounded-full ">boissons</a>
+                    <a className="ml-4 -6 shadow-md text-xs bg-pink-500 tracking-wide px-3 py-2 text-white rounded-full ">boissons</a>
                     </NextLink>
                 </div>
             </div>

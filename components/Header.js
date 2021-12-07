@@ -10,7 +10,7 @@ function Header() {
         <div className='relative flex items-center h-10 cursor-pointer my-auto'>
          
             <h2 className='text-2xl md:text-2xl font-semibold font-fancy text-gray-600'>
-              Le gouet
+              Le gouet - <span className='uppercase font-xs'>St Nicolas de Véroce</span> 
             </h2>
         
           

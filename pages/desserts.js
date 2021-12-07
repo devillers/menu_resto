@@ -6,7 +6,7 @@ function desserts() {
         <div className="relative w-full">
                 <Navbar />  
                 <div className="relative pl-4">
-                <h2 className="mt-6 mb-6  text-2xl text-gray-400">DESSERTS & FROMAGES </h2>
+                <h2 className="mt-6 mb-6  font-light text-2xl text-gray-500">DESSERTS & FROMAGES </h2>
                 <div className="text-gray-600 md:grid-cols-2 md:gap-16">
                     <div>
                         <div>
