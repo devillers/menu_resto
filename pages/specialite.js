@@ -1,45 +1,39 @@
-import Navbar from '../components/Navbar'
+import Navbar from '../components/Navbar2'
 
 function specialite() {
-  return (
-   
-<div className="relative px-6 py-8 ml-auto mr-auto  ">
-    <Navbar/>
-    <div className="relative">
-        <h2 className="mt-6 mb-6 text-2xl text-gray-400 ">SPECIALITES</h2>
-       
-       
-        <div className="text-gray-600 ">
+        return (
+            <div className="relative w-full ">
+            <Navbar/>
+            <div className="relative px-2">
+                <h2 className="mt-6 mb-6 text-2xl text-gray-400 ">SPECIALITES</h2>
+                <div className="text-gray-600 ">
             <div>
-                <div>
-                    <div className="flex mt-2 font-light text-sm ">
-                        <h5 className=" text-gray-900">ASSIETTE SAVOYARDE</h5>
-                        <span className=" ml-2 font-light text-pink-500">16.50 €</span>
+            <div>
+                <div className="flex mt-2 font-light text-sm ">
+                    <h5 className=" text-gray-600">ASSIETTE SAVOYARDE</h5>
+                    <span className=" ml-2 font-light text-pink-500">16.50 €</span>
                     </div>
                     <p className="text-xs italic">Croûte, Croziflette, Jambon Cru & Salade verte</p>
-                    
                 </div>
                 
                 <div>
                     <div className="flex mt-2 font-light text-sm">
-                        <h5 className=" text-gray-900">CROUTE DU GOUET & SALADE VERTE </h5>
+                        <h5 className=" text-gray-600">CROUTE DU GOUET & SALADE VERTE </h5>
                         <span className=" ml-2 font-light text-pink-500">16.00 €</span>
                     </div>
                     <p className="text-xs italic">Pain trempé dans du vin blanc, Jambon, Fromage & Oeufs</p>
-                    
                 </div>
                 
                 <div>
                     <div className="flex mt-2 font-light text-sm">
-                        <h5 className=" text-gray-900">CROZIFLETTE & SALADE VERTE</h5>
+                        <h5 className=" text-gray-600">CROZIFLETTE & SALADE VERTE</h5>
                         <span className=" ml-2 font-light text-pink-500">16.00 €</span>
                     </div>
-                
                 </div>
                 
                 <div>
                     <div className="flex mt-2 font-light text-sm">
-                        <h5 className=" text-gray-900">DIOTS FUMES</h5>
+                        <h5 className=" text-gray-600">DIOTS FUMES</h5>
                         <span className=" ml-2 font-light text-pink-500">16.00 €</span>
                     </div>
                     <p className="text-xs italic">Saucisses fumées de Savoie, sauce au vin blanc, frites ou PDT </p>
@@ -47,19 +41,13 @@ function specialite() {
 
                 <div>
                     <div className="flex mt-2 font-light text-sm">
-                        <h5 className=" text-gray-900">ECORCES DE SAPIN (Boite chaude)</h5>
+                        <h5 className=" text-gray-600">ECORCES DE SAPIN (Boite chaude)</h5>
                         <span className=" ml-2 font-light text-pink-500">18.00 €</span>
                     </div>
                     <p className="text-xs italic">Charcuterie - PDT - Salade verte</p>
                 </div>
-               
-               
-             </div>
-
-
+            </div>
             <div>
-                 
-                
                 <div>
                     <h2 className="mt-6 mb-2  text-2xl text-gray-400 ">FONDUES </h2>
                     <h3 className="mb-4 text-sm font-light italic text-pink-500">Pour 2 personnes minimum</h3>
@@ -79,13 +67,9 @@ function specialite() {
                     <p className="text-sm font-light">250 g/personne avec salade verte</p>
                     <p className="mb-5 text-xs text-gray-400 italic">Supplément charturerie <span className="text-pink-500">3.00 €</span> </p>
                     <span className="italic text-sm text-pink-700">* PDT <span className="text-gray-600">POMME DE TERRE</span> </span>
-                
                 </div>
-                
-                
-               
+            </div>
         </div>
-   </div>
     </div>
 </div>
   

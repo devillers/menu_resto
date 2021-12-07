@@ -1,6 +1,7 @@
 import Head from 'next/head'
 import NextLink from 'next/link';
 
+
 export default function Home() {
   return (
     <div classNameName="flex flex-col items-center justify-center min-h-screen py-2">
@@ -12,6 +13,7 @@ export default function Home() {
      
 
       <section classNameName="bg-gray-100">
+      
           <div className="mt-10 relative">
               <div className="absolute inset-0 w-screen h-screen pb-20 transform opacity-20">
                   <img src="https://cdn.devdojo.com/images/march2021/bg-gradient.png" className="absolute left-0 object-cover w-full h-full"/>
