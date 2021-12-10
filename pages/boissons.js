@@ -80,7 +80,7 @@ const boissons = () => {
                     <div>
                         <h3 className="mt-6 mb-6  text-2xl text-gray-400 ">BOISSONS FROIDES </h3>
                         <div>
-                            <div className="flex mt-2 text-sm font-light">
+                            <div className="flex space-x-2 mt-2 text-sm font-light">
                                 <h5 className="-text-gray-900">CIDRE 75 cl <span className="ml-2  text-pink-500">10.20 €</span></h5>
                                 <h5 className="-text-gray-900">CIDRE 25 cl <span className="ml-2  text-pink-500">3.80 €</span></h5>
                             </div>
@@ -88,14 +88,14 @@ const boissons = () => {
                             
                         <div>
                             <div className="flex mt-2 text-sm font-light">
-                                <h5 className="-text-gray-900">COCA 25cl</h5>
+                                <h5 className="-text-gray-900">COCA 33 cl</h5>
                                 <span className="ml-2  text-pink-500">3.80 €</span>
                             </div>
                         </div>
 
                         <div>
                             <div className="flex mt-2 text-sm font-light ">
-                                <h5 className=" text-gray-900">COCA ZERO 25cl</h5>
+                                <h5 className=" text-gray-900">COCA ZERO 33 cl</h5>
                                 <span className="ml-2 text-pink-500">3.80 €</span>
                             </div>
                         </div>
@@ -159,7 +159,7 @@ const boissons = () => {
                         </div>
                     
                         <div>
-                            <div className="flex mt-2 text-sm font-light">
+                            <div className="flex mt-2 space-x-2 text-sm font-light">
                                 <h5 className=" text-gray-900">BADOIT 1 L <span className="ml-2 mb-4  text-pink-500">5.O0 €</span></h5>
                                 <h5 className=" text-gray-900">BADOIT 50 Cl <span className="ml-2 mb-4  text-pink-500">3.20€</span></h5>
                             </div>
@@ -195,9 +195,9 @@ const boissons = () => {
                         </div>
                         
                         <div>
-                            <div className="flex mt-2 text-sm font-light mb-4">
+                            <div className="flex space-x-2 mt-2 text-sm font-light mb-4">
                                     <h5 className="-text-gray-900">PICON 25 cl <span className="ml-2  text-pink-500">4.70 €</span></h5>
-                                    <h5 className="-text-gray-900">PICON 25 cl <span className="ml-2  text-pink-500">8.50 €</span></h5>
+                                    <h5 className="-text-gray-900"> PICON 25 cl <span className="ml-2  text-pink-500">8.50 €</span></h5>
                             </div>  
                         </div>
                             
