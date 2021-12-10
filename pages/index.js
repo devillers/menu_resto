@@ -4,7 +4,7 @@ import NextLink from 'next/link';
 
 export default function Home() {
   return (
-    <div classNameName="flex flex-col items-center justify-center min-h-screen py-2">
+    <div>
       <Head>
         <title>Restaurant le Gouet</title>
         <link rel="icon" href="/favicon.ico" />
@@ -12,7 +12,7 @@ export default function Home() {
 
      
 
-      <section classNameName="bg-gray-100">
+      <section>
       
           <div className="mt-10 relative">
               <div className="absolute inset-0 w-screen h-screen pb-20 transform opacity-20">
@@ -27,7 +27,7 @@ export default function Home() {
                         <div className="flex items-center ">
                             <div className=" items-center  w-10 h-10 text-center bg-top bg-cover rounded-full bg-purple-500">
                             </div>
-                            <p className="font-bold text-gray-700 uppercase ml-5">A TABLE</p>
+                            <p className="font-bold text-gray-700 uppercase ml-5">LA CARTE</p>
                         </div>
                         <p className="text-sm leading-5 text-gray-500">Nos classiques </p>
                     </div>

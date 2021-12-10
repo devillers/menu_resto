@@ -4,7 +4,7 @@ function specialite() {
         return (
             <div className="relative w-full ">
             <Navbar/>
-            <div className="relative pl-4">
+            <div className="relative px-2">
                 <h2 className="mt-6 mb-6 text-2xl text-gray-400 ">SPECIALITES</h2>
                 <div className="text-gray-600 ">
             <div>
